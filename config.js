@@ -1,4 +1,4 @@
 window.PROVEN_SITE = {
-  siteUrl: "https://example.com",
-  supportEmail: ""
+  siteUrl: "https://proven.thomaspercival.dev",
+  supportEmail: "support@thomaspercival.dev"
 };
